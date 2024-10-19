@@ -3,88 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|c:\\users\\usuario\\source\\repos\\proyectofinal-labo4\\proyectofinal-labo4\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|solutionrelative:proyectofinal-labo4\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|c:\\users\\usuario\\source\\repos\\proyectofinal-labo4\\proyectofinal-labo4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|solutionrelative:proyectofinal-labo4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|c:\\users\\usuario\\source\\repos\\proyectofinal-labo4\\proyectofinal-labo4\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|solutionrelative:proyectofinal-labo4\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|c:\\users\\usuario\\source\\repos\\proyectofinal-labo4\\proyectofinal-labo4\\services\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|solutionrelative:proyectofinal-labo4\\services\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|c:\\users\\usuario\\source\\repos\\proyectofinal-labo4\\proyectofinal-labo4\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|solutionrelative:proyectofinal-labo4\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|c:\\users\\usuario\\source\\repos\\proyectofinal-labo4\\proyectofinal-labo4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|solutionrelative:proyectofinal-labo4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|c:\\users\\usuario\\source\\repos\\proyectofinal-labo4\\proyectofinal-labo4\\services\\encoderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|solutionrelative:proyectofinal-labo4\\services\\encoderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|c:\\users\\usuario\\source\\repos\\proyectofinal-labo4\\proyectofinal-labo4\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|solutionrelative:proyectofinal-labo4\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|c:\\users\\usuario\\source\\repos\\proyectofinal-labo4\\proyectofinal-labo4\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|solutionrelative:proyectofinal-labo4\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|c:\\users\\usuario\\source\\repos\\proyectofinal-labo4\\proyectofinal-labo4\\utils\\exceptions\\custommessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|solutionrelative:proyectofinal-labo4\\utils\\exceptions\\custommessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|c:\\users\\usuario\\source\\repos\\proyectofinal-labo4\\proyectofinal-labo4\\utils\\exceptions\\customhttpexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|solutionrelative:proyectofinal-labo4\\utils\\exceptions\\customhttpexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|c:\\users\\usuario\\source\\repos\\proyectofinal-labo4\\proyectofinal-labo4\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|solutionrelative:proyectofinal-labo4\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|c:\\users\\usuario\\source\\repos\\proyectofinal-labo4\\proyectofinal-labo4\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|solutionrelative:proyectofinal-labo4\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|c:\\users\\usuario\\source\\repos\\proyectofinal-labo4\\proyectofinal-labo4\\proyectofinal-labo4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|solutionrelative:proyectofinal-labo4\\proyectofinal-labo4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|c:\\users\\usuario\\source\\repos\\proyectofinal-labo4\\proyectofinal-labo4\\config\\mapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|solutionrelative:proyectofinal-labo4\\config\\mapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|c:\\users\\usuario\\source\\repos\\proyectofinal-labo4\\proyectofinal-labo4\\utils\\filters\\authoperationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|solutionrelative:proyectofinal-labo4\\utils\\filters\\authoperationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|c:\\users\\usuario\\source\\repos\\proyectofinal-labo4\\proyectofinal-labo4\\config\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|solutionrelative:proyectofinal-labo4\\config\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|c:\\users\\usuario\\source\\repos\\proyectofinal-labo4\\proyectofinal-labo4\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|solutionrelative:proyectofinal-labo4\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|c:\\users\\usuario\\source\\repos\\proyectofinal-labo4\\proyectofinal-labo4\\models\\auth\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|solutionrelative:proyectofinal-labo4\\models\\auth\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|c:\\users\\usuario\\source\\repos\\proyectofinal-labo4\\proyectofinal-labo4\\models\\auth\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|solutionrelative:proyectofinal-labo4\\models\\auth\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|c:\\users\\usuario\\source\\repos\\proyectofinal-labo4\\proyectofinal-labo4\\models\\product\\dto\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|solutionrelative:proyectofinal-labo4\\models\\product\\dto\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|c:\\users\\usuario\\source\\repos\\proyectofinal-labo4\\proyectofinal-labo4\\config\\mapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|solutionrelative:proyectofinal-labo4\\config\\mapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|c:\\users\\usuario\\source\\repos\\proyectofinal-labo4\\proyectofinal-labo4\\models\\product\\dto\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|solutionrelative:proyectofinal-labo4\\models\\product\\dto\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|c:\\users\\usuario\\source\\repos\\proyectofinal-labo4\\proyectofinal-labo4\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|solutionrelative:proyectofinal-labo4\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|c:\\users\\usuario\\source\\repos\\proyectofinal-labo4\\proyectofinal-labo4\\models\\product\\dto\\productsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|solutionrelative:proyectofinal-labo4\\models\\product\\dto\\productsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|c:\\users\\usuario\\source\\repos\\proyectofinal-labo4\\proyectofinal-labo4\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|solutionrelative:proyectofinal-labo4\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|c:\\users\\usuario\\source\\repos\\proyectofinal-labo4\\proyectofinal-labo4\\models\\product\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|solutionrelative:proyectofinal-labo4\\models\\product\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|c:\\users\\usuario\\source\\repos\\proyectofinal-labo4\\proyectofinal-labo4\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|solutionrelative:proyectofinal-labo4\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|c:\\users\\usuario\\source\\repos\\proyectofinal-labo4\\proyectofinal-labo4\\models\\product\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|solutionrelative:proyectofinal-labo4\\models\\product\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|c:\\users\\usuario\\source\\repos\\proyectofinal-labo4\\proyectofinal-labo4\\services\\encoderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|solutionrelative:proyectofinal-labo4\\services\\encoderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|c:\\users\\usuario\\source\\repos\\proyectofinal-labo4\\proyectofinal-labo4\\models\\user\\dto\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|solutionrelative:proyectofinal-labo4\\models\\user\\dto\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|c:\\users\\usuario\\source\\repos\\proyectofinal-labo4\\proyectofinal-labo4\\models\\user\\dto\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|solutionrelative:proyectofinal-labo4\\models\\user\\dto\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|c:\\users\\usuario\\source\\repos\\proyectofinal-labo4\\proyectofinal-labo4\\models\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|solutionrelative:proyectofinal-labo4\\models\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|c:\\users\\usuario\\source\\repos\\proyectofinal-labo4\\proyectofinal-labo4\\models\\user\\dto\\usersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -95,12 +67,24 @@
       "RelativeMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|solutionrelative:proyectofinal-labo4\\models\\user\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|c:\\users\\usuario\\source\\repos\\proyectofinal-labo4\\proyectofinal-labo4\\models\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|solutionrelative:proyectofinal-labo4\\models\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|c:\\users\\usuario\\source\\repos\\proyectofinal-labo4\\proyectofinal-labo4\\models\\user\\dto\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|solutionrelative:proyectofinal-labo4\\models\\user\\dto\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|c:\\users\\usuario\\source\\repos\\proyectofinal-labo4\\proyectofinal-labo4\\models\\auth\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|solutionrelative:proyectofinal-labo4\\models\\auth\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|c:\\users\\usuario\\source\\repos\\proyectofinal-labo4\\proyectofinal-labo4\\models\\user\\dto\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|solutionrelative:proyectofinal-labo4\\models\\user\\dto\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|c:\\users\\usuario\\source\\repos\\proyectofinal-labo4\\proyectofinal-labo4\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|solutionrelative:proyectofinal-labo4\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|c:\\users\\usuario\\source\\repos\\proyectofinal-labo4\\proyectofinal-labo4\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|solutionrelative:proyectofinal-labo4\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|c:\\users\\usuario\\source\\repos\\proyectofinal-labo4\\proyectofinal-labo4\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{287374E9-09BA-49EB-AF51-76CE488A6AAE}|ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj|solutionrelative:proyectofinal-labo4\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -110,331 +94,278 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "ProyectoFinal-Labo4\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "ProyectoFinal-Labo4\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T21:00:28.675Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "ProyectoFinal-Labo4\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "ProyectoFinal-Labo4\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T21:00:02.566Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "ProyectoFinal-Labo4\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "ProyectoFinal-Labo4\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T20:59:35.917Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EncoderServices.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Services\\EncoderServices.cs",
-              "RelativeDocumentMoniker": "ProyectoFinal-Labo4\\Services\\EncoderServices.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Services\\EncoderServices.cs",
-              "RelativeToolTip": "ProyectoFinal-Labo4\\Services\\EncoderServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T20:57:57.813Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserServices.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Services\\UserServices.cs",
-              "RelativeDocumentMoniker": "ProyectoFinal-Labo4\\Services\\UserServices.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Services\\UserServices.cs",
-              "RelativeToolTip": "ProyectoFinal-Labo4\\Services\\UserServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T20:57:44.41Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\appsettings.json",
+              "RelativeDocumentMoniker": "ProyectoFinal-Labo4\\appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\appsettings.json",
+              "RelativeToolTip": "ProyectoFinal-Labo4\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-19T19:32:38.602Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ProductServices.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Services\\ProductServices.cs",
-              "RelativeDocumentMoniker": "ProyectoFinal-Labo4\\Services\\ProductServices.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Services\\ProductServices.cs",
-              "RelativeToolTip": "ProyectoFinal-Labo4\\Services\\ProductServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal-Labo4\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ProyectoFinal-Labo4\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T20:57:31.069Z",
+              "WhenOpened": "2024-10-19T19:23:58.955Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "CustomMessage.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Utils\\Exceptions\\CustomMessage.cs",
-              "RelativeDocumentMoniker": "ProyectoFinal-Labo4\\Utils\\Exceptions\\CustomMessage.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Utils\\Exceptions\\CustomMessage.cs",
-              "RelativeToolTip": "ProyectoFinal-Labo4\\Utils\\Exceptions\\CustomMessage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Models\\Auth\\Login.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal-Labo4\\Models\\Auth\\Login.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Models\\Auth\\Login.cs",
+              "RelativeToolTip": "ProyectoFinal-Labo4\\Models\\Auth\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T20:56:52.627Z",
+              "WhenOpened": "2024-10-19T19:20:35.122Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "CustomHttpException.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Utils\\Exceptions\\CustomHttpException.cs",
-              "RelativeDocumentMoniker": "ProyectoFinal-Labo4\\Utils\\Exceptions\\CustomHttpException.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Utils\\Exceptions\\CustomHttpException.cs",
-              "RelativeToolTip": "ProyectoFinal-Labo4\\Utils\\Exceptions\\CustomHttpException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "LoginResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Models\\Auth\\Dto\\LoginResponseDTO.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal-Labo4\\Models\\Auth\\Dto\\LoginResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Models\\Auth\\Dto\\LoginResponseDTO.cs",
+              "RelativeToolTip": "ProyectoFinal-Labo4\\Models\\Auth\\Dto\\LoginResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T20:56:36.148Z",
+              "WhenOpened": "2024-10-19T19:20:27.022Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Repositories\\Repository.cs",
-              "RelativeDocumentMoniker": "ProyectoFinal-Labo4\\Repositories\\Repository.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Repositories\\Repository.cs",
-              "RelativeToolTip": "ProyectoFinal-Labo4\\Repositories\\Repository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "AuthServices.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Services\\AuthServices.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal-Labo4\\Services\\AuthServices.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Services\\AuthServices.cs",
+              "RelativeToolTip": "ProyectoFinal-Labo4\\Services\\AuthServices.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACUAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T20:55:57.335Z",
+              "WhenOpened": "2024-10-19T19:19:51.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal-Labo4\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Program.cs",
+              "RelativeToolTip": "ProyectoFinal-Labo4\\Program.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAADwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T21:23:27.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthOperationFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Utils\\Filters\\AuthOperationFilter.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal-Labo4\\Utils\\Filters\\AuthOperationFilter.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Utils\\Filters\\AuthOperationFilter.cs",
+              "RelativeToolTip": "ProyectoFinal-Labo4\\Utils\\Filters\\AuthOperationFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T19:25:25.088Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "ProyectoFinal-Labo4\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "ProyectoFinal-Labo4\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal-Labo4\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "ProyectoFinal-Labo4\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIUAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T20:55:46.787Z",
+              "WhenOpened": "2024-10-19T19:07:35.649Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Mapping.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Config\\Mapping.cs",
-              "RelativeDocumentMoniker": "ProyectoFinal-Labo4\\Config\\Mapping.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Config\\Mapping.cs",
-              "RelativeToolTip": "ProyectoFinal-Labo4\\Config\\Mapping.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal-Labo4\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "ProyectoFinal-Labo4\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T20:54:01.011Z",
+              "WhenOpened": "2024-10-19T19:06:38.648Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 4,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Config\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "ProyectoFinal-Labo4\\Config\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Config\\ApplicationDbContext.cs",
               "RelativeToolTip": "ProyectoFinal-Labo4\\Config\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABEAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-11T20:53:52.076Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "LoginResponseDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Models\\Auth\\Dto\\LoginResponseDTO.cs",
-              "RelativeDocumentMoniker": "ProyectoFinal-Labo4\\Models\\Auth\\Dto\\LoginResponseDTO.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Models\\Auth\\Dto\\LoginResponseDTO.cs",
-              "RelativeToolTip": "ProyectoFinal-Labo4\\Models\\Auth\\Dto\\LoginResponseDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "EncoderServices.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Services\\EncoderServices.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal-Labo4\\Services\\EncoderServices.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Services\\EncoderServices.cs",
+              "RelativeToolTip": "ProyectoFinal-Labo4\\Services\\EncoderServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T20:51:37.928Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "UpdateProductDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Models\\Product\\Dto\\UpdateProductDTO.cs",
-              "RelativeDocumentMoniker": "ProyectoFinal-Labo4\\Models\\Product\\Dto\\UpdateProductDTO.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Models\\Product\\Dto\\UpdateProductDTO.cs",
-              "RelativeToolTip": "ProyectoFinal-Labo4\\Models\\Product\\Dto\\UpdateProductDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T20:51:03.936Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CreateProductDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Models\\Product\\Dto\\CreateProductDTO.cs",
-              "RelativeDocumentMoniker": "ProyectoFinal-Labo4\\Models\\Product\\Dto\\CreateProductDTO.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Models\\Product\\Dto\\CreateProductDTO.cs",
-              "RelativeToolTip": "ProyectoFinal-Labo4\\Models\\Product\\Dto\\CreateProductDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T20:50:48.27Z",
+              "WhenOpened": "2024-10-19T19:05:31.64Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "ProyectoFinal-Labo4",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj",
-              "RelativeDocumentMoniker": "ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj",
-              "RelativeToolTip": "ProyectoFinal-Labo4\\ProyectoFinal-Labo4.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-11T20:30:28.129Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ProductsDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Models\\Product\\Dto\\ProductsDTO.cs",
-              "RelativeDocumentMoniker": "ProyectoFinal-Labo4\\Models\\Product\\Dto\\ProductsDTO.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Models\\Product\\Dto\\ProductsDTO.cs",
-              "RelativeToolTip": "ProyectoFinal-Labo4\\Models\\Product\\Dto\\ProductsDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Services\\UserServices.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal-Labo4\\Services\\UserServices.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Services\\UserServices.cs",
+              "RelativeToolTip": "ProyectoFinal-Labo4\\Services\\UserServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T20:50:25.003Z",
+              "WhenOpened": "2024-10-19T19:04:24.987Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ProductDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Models\\Product\\Dto\\ProductDTO.cs",
-              "RelativeDocumentMoniker": "ProyectoFinal-Labo4\\Models\\Product\\Dto\\ProductDTO.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Models\\Product\\Dto\\ProductDTO.cs",
-              "RelativeToolTip": "ProyectoFinal-Labo4\\Models\\Product\\Dto\\ProductDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "Mapping.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Config\\Mapping.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal-Labo4\\Config\\Mapping.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Config\\Mapping.cs",
+              "RelativeToolTip": "ProyectoFinal-Labo4\\Config\\Mapping.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowCsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T20:50:08.015Z",
+              "WhenOpened": "2024-10-11T20:54:01.011Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Models\\Product\\Product.cs",
-              "RelativeDocumentMoniker": "ProyectoFinal-Labo4\\Models\\Product\\Product.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Models\\Product\\Product.cs",
-              "RelativeToolTip": "ProyectoFinal-Labo4\\Models\\Product\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T20:49:50.346Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "UpdateUserDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Models\\User\\Dto\\UpdateUserDTO.cs",
-              "RelativeDocumentMoniker": "ProyectoFinal-Labo4\\Models\\User\\Dto\\UpdateUserDTO.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Models\\User\\Dto\\UpdateUserDTO.cs",
-              "RelativeToolTip": "ProyectoFinal-Labo4\\Models\\User\\Dto\\UpdateUserDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T20:49:33.357Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "CreateUserDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Models\\User\\Dto\\CreateUserDTO.cs",
-              "RelativeDocumentMoniker": "ProyectoFinal-Labo4\\Models\\User\\Dto\\CreateUserDTO.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Models\\User\\Dto\\CreateUserDTO.cs",
-              "RelativeToolTip": "ProyectoFinal-Labo4\\Models\\User\\Dto\\CreateUserDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T20:49:16.187Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 14,
               "Title": "UsersDTO.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Models\\User\\Dto\\UsersDTO.cs",
               "RelativeDocumentMoniker": "ProyectoFinal-Labo4\\Models\\User\\Dto\\UsersDTO.cs",
               "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Models\\User\\Dto\\UsersDTO.cs",
               "RelativeToolTip": "ProyectoFinal-Labo4\\Models\\User\\Dto\\UsersDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T20:49:01.383Z",
+              "WhenOpened": "2024-10-19T19:03:10.326Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 15,
               "Title": "UserDTO.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Models\\User\\Dto\\UserDTO.cs",
               "RelativeDocumentMoniker": "ProyectoFinal-Labo4\\Models\\User\\Dto\\UserDTO.cs",
               "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Models\\User\\Dto\\UserDTO.cs",
               "RelativeToolTip": "ProyectoFinal-Labo4\\Models\\User\\Dto\\UserDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T20:48:48.122Z",
+              "WhenOpened": "2024-10-19T19:02:56.582Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 16,
+              "Title": "UpdateUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Models\\User\\Dto\\UpdateUserDTO.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal-Labo4\\Models\\User\\Dto\\UpdateUserDTO.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Models\\User\\Dto\\UpdateUserDTO.cs",
+              "RelativeToolTip": "ProyectoFinal-Labo4\\Models\\User\\Dto\\UpdateUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T19:02:40.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Models\\User\\Dto\\CreateUserDTO.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal-Labo4\\Models\\User\\Dto\\CreateUserDTO.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Models\\User\\Dto\\CreateUserDTO.cs",
+              "RelativeToolTip": "ProyectoFinal-Labo4\\Models\\User\\Dto\\CreateUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T19:02:15.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Models\\User\\User.cs",
               "RelativeDocumentMoniker": "ProyectoFinal-Labo4\\Models\\User\\User.cs",
               "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Models\\User\\User.cs",
               "RelativeToolTip": "ProyectoFinal-Labo4\\Models\\User\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T20:48:26.292Z",
+              "WhenOpened": "2024-10-19T19:01:14.358Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Models\\Auth\\Login.cs",
-              "RelativeDocumentMoniker": "ProyectoFinal-Labo4\\Models\\Auth\\Login.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Models\\Auth\\Login.cs",
-              "RelativeToolTip": "ProyectoFinal-Labo4\\Models\\Auth\\Login.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 18,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal-Labo4\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "ProyectoFinal-Labo4\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T20:47:58.077Z",
+              "WhenOpened": "2024-10-17T21:00:52.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal-Labo4\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProyectoFinal-Labo4\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAHsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T21:00:28.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductServices.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Services\\ProductServices.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal-Labo4\\Services\\ProductServices.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoFinal-Labo4\\ProyectoFinal-Labo4\\Services\\ProductServices.cs",
+              "RelativeToolTip": "ProyectoFinal-Labo4\\Services\\ProductServices.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAEUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T20:57:31.069Z",
               "EditorCaption": ""
             }
           ]
